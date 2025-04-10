@@ -33,7 +33,7 @@ I'm a software engineer that solves real-world problems by building applications
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=evannt&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!--
 **evannt/evannt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
