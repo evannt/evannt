@@ -2,10 +2,6 @@
 
 ### **`Software Engineer`**
 
-I'm a software engineer that solves real-world problems by building applications. All my personal projects are built from the ground up and designed to solve an issue that I expierenced in my day-to-day life. I am particularly passionate about creating tools to help people learn or enhance their skills.
-
-I use vim btw.
-
 ---
 
 # 💻 Tech Stack:
