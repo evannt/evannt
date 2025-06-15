@@ -2,7 +2,7 @@
 
 ### **`Software Engineer`**
 
-Eager to learn.
+Eager to learn. Always coding.
 
 ---
 
