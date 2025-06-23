@@ -2,7 +2,7 @@
 
 ### **`Software Engineer`**
 
-Always learning
+Always learning something new.
 
 ---
 
