@@ -1,12 +1,7 @@
 # 🔭 Evan Thompson
-
 ### **`Software Engineer`**
 
-Always learning something new.
-
----
-
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,7 +21,7 @@ Always learning something new.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <!--![](https://github-readme-stats.vercel.app/api?username=evannt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=evannt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
